@@ -1,7 +1,6 @@
 [
-  "obsidian-tasks-plugin",
   "obsidian-excalidraw-plugin",
-  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-git",
   "obsidian-hider",
-  "webpage-html-export"
+  "obsidian-tasks-plugin"
 ]
