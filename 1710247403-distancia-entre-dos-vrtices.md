@@ -9,5 +9,5 @@ tags:
 
 # Distancia entre dos vértices
 
-Para calcular la [[métrica|distancia]] entre dos vértices, realizamos [[1708534329-breadth-first-search|BFS]] desde uno de ellos y calculamos el nivel del otro en el [[1708533762-rbol-recubridor|arbol resultante]]
+Para calcular la [[1716491727-mtrica|distancia]] entre dos vértices, realizamos [[1708534329-breadth-first-search|BFS]] desde uno de ellos y calculamos el nivel del otro en el [[1708533762-rbol-recubridor|arbol resultante]]
 

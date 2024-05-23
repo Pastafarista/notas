@@ -4,7 +4,7 @@ aliases:
   - Laboratorio 3 cálculo numérico
   - Laboratorio 3
 tags:
-  - cálculo numérico
+  - cálculo-numérico
 ---
 
 # Laboratorio 3

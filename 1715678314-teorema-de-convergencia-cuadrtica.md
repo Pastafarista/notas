@@ -10,7 +10,7 @@ tags:
 
 Sea $g$ una función definida 
 
-Sea $g$ una función definida y con derivada [[Función continua|continua]] en un intervalo de la forma $(\alpha - r_{0}, \alpha + r_{0}), \quad r > 0$, con $g(\alpha)=\alpha$
+Sea $g$ una función definida y con derivada [[1716491727-funcin-continua|continua]] en un intervalo de la forma $(\alpha - r_{0}, \alpha + r_{0}), \quad r > 0$, con $g(\alpha)=\alpha$
 
 Si $g'(\alpha) = 0$ y existe $g''(\alpha)$ entonces existe $0 < r < r_{0}$ tal que para $x_{0} \in  [\alpha - r, \alpha + r]$, se puede construir la sucesión $x_{n+1}=g(x_{n}), \quad n=0,1,\ldots ,$ con elementos en $[\alpha -r,\alpha +r]$ y es convergente hacia $\alpha$. Además si los errores $e_{n}=x_{n}-\alpha$ son no nulos, entonces los cocientes $\frac{e_{n+1}}{e_{n}^2}\to \frac{1}{2}g''(\alpha), \quad n \to \infty$
 

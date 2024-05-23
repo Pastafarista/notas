@@ -10,7 +10,7 @@ tags:
 
 ## Enunciado
 
-Si $N$ es un entero no negativo, sean $x_{0}, \ldots , x_{N+1}$, $N+ 2$ puntos, dos a dos distintos del intervalo $[a,b]$. Si $f$ es una función con $N$ derivadas [[Función continua|continuas]] en $[a,b]$ y $f^{(N+1)}$ existe en $(a,b)$, entonces hay un punto $c$ con ${min(x_{0},\ldots ,x_{N+1})} < c < {max(x_{0},\ldots ,x_{N+1})}$ tal que:
+Si $N$ es un entero no negativo, sean $x_{0}, \ldots , x_{N+1}$, $N+ 2$ puntos, dos a dos distintos del intervalo $[a,b]$. Si $f$ es una función con $N$ derivadas [[1716491727-funcin-continua|continuas]] en $[a,b]$ y $f^{(N+1)}$ existe en $(a,b)$, entonces hay un punto $c$ con ${min(x_{0},\ldots ,x_{N+1})} < c < {max(x_{0},\ldots ,x_{N+1})}$ tal que:
 
 $$
 f[x_{0}, \ldots , x_{N+1}] = \frac{f^{(N+1)}(c)}{(N+1)!}

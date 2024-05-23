@@ -13,4 +13,4 @@ Un [[1706782930-grafo|grafo]] es **euleriano** si existe un [[1706786847-camino|
 
 ## Condiciones
 
-- El grafo es euleriano si no tiene ningún vértice de [[1706785520-grado-de-un-vértice|grado]] impar. En este caso cualquier recorrido completo será circular.
+- El grafo es euleriano si no tiene ningún vértice de [[1706785520-grado-de-un-vrtice|grado]] impar. En este caso cualquier recorrido completo será circular.

@@ -9,4 +9,4 @@ tags:
 
 # Vértice de corte
 
-Un vértice de corte es un vértice tal que al eliminarlo, aumenta la cantidad de [[Componentes conexas|componentes conexas]]
+Un vértice de corte es un vértice tal que al eliminarlo, aumenta la cantidad de [[1716491727-componentes-conexas|componentes conexas]]

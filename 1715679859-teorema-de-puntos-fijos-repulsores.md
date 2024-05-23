@@ -8,11 +8,11 @@ tags:
 
 # Teorema de puntos fijos repulsores
 
-La condición $|g'(\alpha)|<1$ que garantica la [[1715081050-atraccin-local-en-la-iteracin-de-punto-fijo|atracción local]] al [[Punto fijo|punto fijo]] es (casi) necesaria.
+La condición $|g'(\alpha)|<1$ que garantica la [[1715081050-atraccin-local-en-la-iteracin-de-punto-fijo|atracción local]] al [[1716491727-punto-fijo|punto fijo]] es (casi) necesaria.
 
 ## Enunciado
 
-Sea $g$ una función definida y con derivada [[Función continua|continua]] en un conjunto que contenga un intervalo de la forma $(\alpha - r_{0}, \alpha + r_{0}), \quad r > 0$, con $g(\alpha)=\alpha$.
+Sea $g$ una función definida y con derivada [[1716491727-funcin-continua|continua]] en un conjunto que contenga un intervalo de la forma $(\alpha - r_{0}, \alpha + r_{0}), \quad r > 0$, con $g(\alpha)=\alpha$.
 
 Si $|g'(\alpha)| > 1$, las únicas sucesiones de la forma $x_{n+1} = g(x_{n}) \quad n=0,1,\ldots$ que convergen a $\alpha$ son aquellas cuyos términos son, de uno en adelante, iguales a $\alpha$. 
 
@@ -20,7 +20,7 @@ Si $|g'(\alpha)| > 1$, las únicas sucesiones de la forma $x_{n+1} = g(x_{n}) \q
 
 Como $|g'(\alpha)| > 1$, existe $M$ tal que $|g'(\alpha)| > M > 1$.
 
-Por la [[Función continua|continuidad]] de $g'$, existe $r < r_{0}$, tal que para $x\in [\alpha -r,\alpha +r]$ se tiene $|g'(x)| \ge  M$.
+Por la [[1716491727-funcin-continua|continuidad]] de $g'$, existe $r < r_{0}$, tal que para $x\in [\alpha -r,\alpha +r]$ se tiene $|g'(x)| \ge  M$.
 
 Supongamos que tenemos una sucesión $x_{n+1} = g(x_{n}) \quad n=0,1,\ldots$ que converge a $\alpha$. Entonces existe $n_{1}$ tal que para todo $n\ge n_{1}$, $x_{n}\in [\alpha - r, \alpha +r]$.
 

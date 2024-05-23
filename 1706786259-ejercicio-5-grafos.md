@@ -6,7 +6,6 @@ aliases:
   - Cuántos grafos simples distintos (quizás isomorfos) con 5 vértices y 7 aristas se pueden formar
 tags:
   - matemática-discreta-II
-  - ejercicio-matemática-discreta-II
 ---
 
 # Cuántos grafos simples distintos (quizás isomorfos) con 5 vértices y 7 aristas se pueden formar

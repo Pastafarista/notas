@@ -10,13 +10,13 @@ tags:
 
 # Atracción local en la [[1715077058-iteracin-de-punto-fijo|iteración de punto fijo]]
 
-Supongamos que tenemos una función $g$ que tiene como [[Punto fijo|punto fijo]] la raíz (cero) de $f$ que buscamos
+Supongamos que tenemos una función $g$ que tiene como [[1716491727-punto-fijo|punto fijo]] la raíz (cero) de $f$ que buscamos
 
 El siguiente teorema proporciona una condición suficiente para que la sucesión de iterantes converja hacia $\alpha$
 
 ## Teorema
 
-Sea $g$ una función definida y con derivada [[Función continua|continua]] en un intervalo de la forma $(\alpha - r_{0}, \alpha + r_{0}), \quad r > 0$, con $g(\alpha)=\alpha$
+Sea $g$ una función definida y con derivada [[1716491727-funcin-continua|continua]] en un intervalo de la forma $(\alpha - r_{0}, \alpha + r_{0}), \quad r > 0$, con $g(\alpha)=\alpha$
 
 Si $|g`(\alpha)|<1$ entonces existe $0 < r < r_{0}$ tal que para $x_{0} \in  [\alpha - r, \alpha + r]$, se puede construir la sucesión $x_{n+1}=g(x_{n}), \quad n=0,1,\ldots ,$ con elementos en $[\alpha -r,\alpha +r]$ y es convergente hacia $\alpha$. Además si los errores $e_{n}=x_{n}-\alpha$ son no nulos, entonces los cocientes $\frac{e_{n+1}}{e_{n}}\to g'(\alpha), \quad n \to \infty$
 
@@ -24,7 +24,7 @@ Si $|g`(\alpha)|<1$ entonces existe $0 < r < r_{0}$ tal que para $x_{0} \in  [\a
 
 - Si un error $e_{n}$ es $0$, entonces $x_{n}=\alpha$ y $x_{k}=\alpha \forall k\ge n$
 - El teorema garantiza la construcción de la sucesión de iterantes.
-- El teorema es local: garantiza que para $x_{0}$ suficientemente próximos a $\alpha$ la iteración de [[Punto fijo|punto fijo]] tiene éxito.
+- El teorema es local: garantiza que para $x_{0}$ suficientemente próximos a $\alpha$ la iteración de [[1716491727-punto-fijo|punto fijo]] tiene éxito.
 
 ## Demostración
 

@@ -4,7 +4,6 @@ aliases:
   - Grafo completo
 tags:
   - matemática-discreta-II
-  - ejercicio-matemática-discreta-II
 ---
 
 # Grafo completo

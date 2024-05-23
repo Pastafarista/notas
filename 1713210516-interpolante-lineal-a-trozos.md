@@ -22,4 +22,4 @@ $$
 
 Esta función $S(x)$ se llama *interpolante lineal a trozos* de $f$ en $\Delta$
 
-- $M^{1}_{0}(\Delta)$ es el conjunto de todas las funciones $s$ [[Función continua|continuas]] en $[a,b]$ que restringidas a cada intervalo $[x_{i-1}, x_{i}]$ coinciden con un polinomio de grado $\le 1$ (es decir, es lineal).
+- $M^{1}_{0}(\Delta)$ es el conjunto de todas las funciones $s$ [[1716491727-funcin-continua|continuas]] en $[a,b]$ que restringidas a cada intervalo $[x_{i-1}, x_{i}]$ coinciden con un polinomio de grado $\le 1$ (es decir, es lineal).

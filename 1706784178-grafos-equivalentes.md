@@ -8,4 +8,4 @@ tags:
 
 # Grafos equivalentes
 
-Dos [[1706782930-grafo|grafos]] son equivalentes si existe una [[Función Biyectiva|biyección]] entre sus vértices que preserva las aristas.
+Dos [[1706782930-grafo|grafos]] son equivalentes si existe una [[1716491727-funcin-biyectiva|biyección]] entre sus vértices que preserva las aristas.

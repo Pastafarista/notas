@@ -5,7 +5,6 @@ aliases:
   - Caracteriza cada uno de estos grafos
 tags:
   - matemática-discreta-II
-  - ejercicio-matemática-discreta-II
 ---
 
 # Caracteriza cada uno de estos grafos

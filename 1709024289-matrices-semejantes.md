@@ -14,4 +14,4 @@ Dos [[1708971486-matriz|matrices]] $A$ y $B$ [[1708972968-matriz-cuadrada|cuadra
 
 - Si dos matrices $A$ y $B$ son semejantes, entonces $A$ y $B$ son [[1708977581-matrices-equivalentes|equivalentes]], basta considerar $M = P^{-1}$ y $N = P$ 
 - Si dos matrices $A$ y $B$ son semejantes entonces $A$ y $B$ tienen el mismo [[1708971315-rango-de-una-matriz|rango]]
-- La semejanza de matices es una [[Relación de equivalencia|relación de equivalencia]] en $M_{n \times n}$
+- La semejanza de matices es una [[1716491727-relacin-de-equivalencia|relación de equivalencia]] en $M_{n \times n}$

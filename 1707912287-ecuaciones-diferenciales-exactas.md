@@ -9,7 +9,7 @@ tags:
 
 # Ecuaciones diferenciales exactas
 
-Dada una función $F(x,y)$ que posee derivadas parciales [[Función continua|continuas]] en un dominio $D \subset \mathbb{R}^2$, se define su diferencial total de la siguiente manera:
+Dada una función $F(x,y)$ que posee derivadas parciales [[1716491727-funcin-continua|continuas]] en un dominio $D \subset \mathbb{R}^2$, se define su diferencial total de la siguiente manera:
 
 $${dF(x,y) = \frac{\partial F(x,y)}{\partial x} dx + \frac{\partial F(x,y)}{\partial y}dy}$$
 

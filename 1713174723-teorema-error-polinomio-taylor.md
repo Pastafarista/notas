@@ -10,7 +10,7 @@ tags:
  
 ## Enunciado
 
-Sean $x, x_{0}$ dos número reales distintos y sea $f$ una función con $N$ derivadas [[Función continua|continuas]] en el intervalo $[x, x_{0}]$, supongamos además que la derivada $f^{(N+1)}$ existe en el intervalo abierto $(x, x_{0})$. Entonces, existe un punto $c$, comprendido estrictamente entre $x$ y $x_{0}$, tal que el [[1707819341-errores|error]] del polinomio de Taylor de orden $N$ de $f(x)$ centrado en $x_0$ es:
+Sean $x, x_{0}$ dos número reales distintos y sea $f$ una función con $N$ derivadas [[1716491727-funcin-continua|continuas]] en el intervalo $[x, x_{0}]$, supongamos además que la derivada $f^{(N+1)}$ existe en el intervalo abierto $(x, x_{0})$. Entonces, existe un punto $c$, comprendido estrictamente entre $x$ y $x_{0}$, tal que el [[1707819341-errores|error]] del polinomio de Taylor de orden $N$ de $f(x)$ centrado en $x_0$ es:
 
 $$
 f(x) - P(x) = f^{(N+1)}(c)\frac{(x - x_{0})^{N+1}}{(N+1)!}

@@ -9,7 +9,7 @@ tags:
 # Laboratorios cálculo numérico
 
 - [x] [[1713105354-laboratorio-1-clculo-numrico|Laboratorio 1]] ✅ 2024-04-14
-- [x] [[Laboratorio 2 cálculo numérico|Laboratorio 2]] ✅ 2024-04-14
+- [x] [[1716491727-laboratorio-2-clculo-numrico|Laboratorio 2 cálculo numérico]] ✅ 2024-04-14
 - [x] [[1713120403-laboratorio-3-clculo-numrico|Laboratorio 3]] ✅ 2024-04-16
 - [x] Laboratorio 4 ✅ 2024-04-15
 - [x] [[1713122391-laboratorio-5-clculo-numrico|Laboratorio 5]] ✅ 2024-04-15

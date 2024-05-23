@@ -12,4 +12,3 @@ El grafo es [[1706978566-grafo-plano|plano]] si y solo si no contiene ni $K_5$ n
 
 ## Demostración
 
-#TODO

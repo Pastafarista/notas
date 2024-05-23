@@ -23,5 +23,5 @@ El **Breadth First Search** (BFS) es un algoritmo de búsqueda en [[1706782930-g
 ## Características
 
 - Crea distintos [[1708533762-rbol-recubridor|árboles recubridores]] en función del vértice de partida y la numeración
-- Nos permite calcular la [[Métrica|distancia]] entre dos vértices, la excentricidad , el radio y el diámetro del grafo
+- Nos permite calcular la [[1716491727-mtrica|distancia]] entre dos vértices, la excentricidad , el radio y el diámetro del grafo
 - Es cómodo cuando se trata de buscar el camino más corto entre dos vértices

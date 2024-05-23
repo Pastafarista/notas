@@ -19,7 +19,7 @@ $$
 
 para encontrar una aproximación de la raíz de $f(x)$.
 
-1. Demostrar que el cero buscado $\alpha$ es un [[Punto fijo|punto fijo]] de $g(x)$.
+1. Demostrar que el cero buscado $\alpha$ es un [[1716491727-punto-fijo|punto fijo]] de $g(x)$.
 2. Demostrar la convergencia cuadrática del método de iteración de punto fijo para la función $g(x)$.
 3. Calcular las primeras 3 iteraciones del método de iteración de punto fijo para la función $g(x)$ y sus errores. Comentar los resultados obtenidos. *Nota: utiliza la aproximación obtenida con `scipy.optimize.bisect` como verdadero valor de la raíz*
 

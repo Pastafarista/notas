@@ -5,10 +5,9 @@ aliases:
   - Ejercicio 3 grafos
 tags:
   - matemática-discreta-II
-  - ejercicio-matemática-discreta-II
 ---
 
 # Dibuja cómo unir 5 despachos con cables
 - de modo que de cada despacho salgan exactamente 3 cables
 
-No se puede hacer, ya que el [[1706785520-grado-de-un-vértice|grado]] del [[1706782930-grafo|grafo]] sería impar.
+No se puede hacer, ya que el [[1706785520-grado-de-un-vrtice|grado]] del [[1706782930-grafo|grafo]] sería impar.

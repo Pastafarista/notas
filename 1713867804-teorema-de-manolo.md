@@ -45,7 +45,7 @@ $$
 
 Para $\mathcal{I}_{N+1}(f)$ no cuadra $f(x) = A + Bx + Cx^2 + \ldots + Kx^{M+1}$:
 
-- Supongamos por [[reducción al absurdo]] que $\mathcal{I}_{N+1}(f)$ cuadra, entonces:
+- Supongamos por reducción al absurdo que $\mathcal{I}_{N+1}(f)$ cuadra, entonces:
 
 $$
 \begin{split}

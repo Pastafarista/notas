@@ -5,7 +5,6 @@ aliases:
   - Que representaciones son equivalentes
 tags:
   - matemática-discreta-II
-  - ejercicio-matemática-discreta-II
 ---
 
 # Que representaciones son equivalentes

@@ -10,7 +10,7 @@ tags:
 
 ## Enunciado
 
-Sea $f$ una función con $N$ derivadas [[Función continua|continuas]] en un intervalo y $P$ el [[1709641715-polinomio-interpolador-de-lagrange|polinomio interpolador de Lagrange]] en $N+1$ nodos $x_{0}, \ldots , x_{N}$, dos a dos distintos, del intervalo. Por otro lado sea $Q(x)$ el polinomio de Taylor de grado $\le N$ de $f$ en $x_{0}$. Entonces, si se fijan $x_{0}$ y $x$, mientras que $x_{1} \to x_{0}, \ldots, x_N \to x_{0}$, se verifica que:
+Sea $f$ una función con $N$ derivadas [[1716491727-funcin-continua|continuas]] en un intervalo y $P$ el [[1709641715-polinomio-interpolador-de-lagrange|polinomio interpolador de Lagrange]] en $N+1$ nodos $x_{0}, \ldots , x_{N}$, dos a dos distintos, del intervalo. Por otro lado sea $Q(x)$ el polinomio de Taylor de grado $\le N$ de $f$ en $x_{0}$. Entonces, si se fijan $x_{0}$ y $x$, mientras que $x_{1} \to x_{0}, \ldots, x_N \to x_{0}$, se verifica que:
 
 $$
 P(x) \to Q(x)

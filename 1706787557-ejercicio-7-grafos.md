@@ -5,7 +5,6 @@ aliases:
   - Cuántas preguntas de sí o no hay que hacer para adivinar un número entre 1 y 1000000
 tags:
   - matemática-discreta-II
-  - ejercicio-matemática-discreta-II
 ---
 
 # Cuántas preguntas de sí o no hay que hacer para adivinar un número entre 1 y 1000000

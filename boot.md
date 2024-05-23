@@ -1,3 +1,0 @@
-#Linux 
-
-Directorio estático que guarda los ejecutables y archivos que se utilizan en el arranque del sistema. Estos archivos deberán ser utilizados antes de que el kernel comience a dar las ordenes de ejecución de los módulos del sistema

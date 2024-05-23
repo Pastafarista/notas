@@ -8,7 +8,7 @@ tags:
 
 # Método de la bisección
 
-Sea $f$ definida y [[Función continua|continua]] en un intervalo [[Conjunto cerrado|cerrado]] y acotado $I_{0}=[a,b]$ y tal que $f(a)\cdot f(b)<0$.
+Sea $f$ definida y [[1716491727-funcin-continua|continua]] en un intervalo [[1716491727-conjunto-cerrado|cerrado]] y acotado $I_{0}=[a,b]$ y tal que $f(a)\cdot f(b)<0$.
 
 Por el teorema de Bolzano, existe $c \in  (a,b)$ tal que $f(c) = 0$
 

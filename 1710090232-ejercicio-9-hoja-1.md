@@ -10,4 +10,4 @@ tags:
 
 Si cada uno de los que ha escrito recibe cartas de vuelta, el [[1706783907-grafo-dirigido|grafo dirigido]] se puede interpretar como un [[1706782930-grafo|grafo]] normal. 
 
-En ese caso, como cada vértice es de [[1706785520-grado-de-un-vértice|grado]] 3, el número de vértices de grado impar es 7. Por lo tanto, el número de vértices de grado impar es impar, por lo que no es posible que cada uno de ellos reciba tarjetas de exactamente los tres a los que ha escrito. 
+En ese caso, como cada vértice es de [[1706785520-grado-de-un-vrtice|grado]] 3, el número de vértices de grado impar es 7. Por lo tanto, el número de vértices de grado impar es impar, por lo que no es posible que cada uno de ellos reciba tarjetas de exactamente los tres a los que ha escrito. 

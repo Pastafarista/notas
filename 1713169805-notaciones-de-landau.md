@@ -3,7 +3,7 @@ id: 1713169805-notaciones-de-landau
 aliases:
   - Notaciones de Landau
 tags:
-  - cálculo numérico
+  - cálculo-numérico
 ---
 
 # Notaciones de Landau

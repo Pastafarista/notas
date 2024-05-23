@@ -10,7 +10,7 @@ tags:
 
 ## Enunciado
 
-Supongamos que $f$ es una función con $N\ge 1$ derivadas [[Función continua|continuas]] en un intervalo $[a,b]$ y tal que $f^{(N+1)}$ existe en $(a,b)$. Sean $x_{0},\ldots ,x_{N}$, $N + 1$ nodos en $[a,b]$, dos a dos distintos, y sea $P$ el correspondiente [[1709641715-polinomio-interpolador-de-lagrange|polinomio interpolador de Lagrange]]. Entonces a cada punto $x$ en $[a,b]$ le corresponde un punto $c$ con ${min(x_{0},\ldots ,x_N,x)}$ < c < ${max(x_{0},\ldots ,x_N,x)}$ tal que:
+Supongamos que $f$ es una función con $N\ge 1$ derivadas [[1716491727-funcin-continua|continuas]] en un intervalo $[a,b]$ y tal que $f^{(N+1)}$ existe en $(a,b)$. Sean $x_{0},\ldots ,x_{N}$, $N + 1$ nodos en $[a,b]$, dos a dos distintos, y sea $P$ el correspondiente [[1709641715-polinomio-interpolador-de-lagrange|polinomio interpolador de Lagrange]]. Entonces a cada punto $x$ en $[a,b]$ le corresponde un punto $c$ con ${min(x_{0},\ldots ,x_N,x)}$ < c < ${max(x_{0},\ldots ,x_N,x)}$ tal que:
 
 $$
 f(x) - P(x) = \frac{(x - x_{0}) \dots (x - x_N)}{(N + 1)!}f^{(N+1)}(c)

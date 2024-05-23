@@ -7,12 +7,12 @@ tags:
   - cálculo-numérico
 ---
 
-# Iteración de [[Punto fijo|punto fijo]]
+# Iteración de [[1716491727-punto-fijo|punto fijo]]
 
 $x^{*}$ es raíz de $f$
 $g(x) = x + f(x)$
 $g(x^{*}) = x^{*} + f(x^{*}) = x^{*} + 0 = x^{*}$
-$x^{*}$ es un [[Punto fijo|punto fijo]] de $g$
+$x^{*}$ es un [[1716491727-punto-fijo|punto fijo]] de $g$
 
 $$
 \begin{split}
@@ -44,7 +44,7 @@ Si ocurre, entonces dada una tolerancia existe un valor $N$ tal que $x_N,x_{N+1}
 
 ¿Como seleccionamos $g$?
 
-- Si $x_n \implies \infty$ cuando $n \to \infty$ y $g$ [[Función continua|continua]], tomando límites en $x_{n+1}=g(x_n)$
+- Si $x_n \implies \infty$ cuando $n \to \infty$ y $g$ [[1716491727-funcin-continua|continua]], tomando límites en $x_{n+1}=g(x_n)$
 
 $$
 \alpha = \lim_{n \to \infty} x^{n+1} = \lim_{n \to \infty} g(x_n) = g(\lim_{n \to \infty} x_n) = g(\alpha)

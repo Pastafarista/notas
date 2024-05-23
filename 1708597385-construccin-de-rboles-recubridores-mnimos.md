@@ -14,5 +14,5 @@ tags:
 
 ## Soluciones:
 
-- [[Algoritmo de Krusal]]
+- [[1708597493-algoritmo-de-krusal|Algoritmo de Krusal]]
 - Algoritmo de Prim

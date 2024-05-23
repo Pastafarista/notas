@@ -8,7 +8,7 @@ tags:
 
 # Endomorfismo biyectivo
 
-Si un [[1714230988-endomorfismo|endomorfismo]] es [[Función Biyectiva|biyectivo]], entonces si $M$ es su [[1708971486-matriz|matriz]]asociada:
+Si un [[1714230988-endomorfismo|endomorfismo]] es [[1716491727-funcin-biyectiva|biyectiva]], entonces si $M$ es su [[1708971486-matriz|matriz]] asociada:
 
 - $ker f = \{0\}$
 - $dim(Imf) = n$

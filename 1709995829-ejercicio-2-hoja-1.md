@@ -8,7 +8,7 @@ tags:
 
 # Describe (es decir, nombra, dibuja...) o explica por qué no puede existir:
 
-1. Un [[1706782930-grafo|grafo]] con 7 vértices, todos de [[1706785520-grado-de-un-vértice|grado]] 3.
+1. Un [[1706782930-grafo|grafo]] con 7 vértices, todos de [[1706785520-grado-de-un-vrtice|grado]] 3.
 
 No puede existir, ya que el número de vértices de grado impar debe ser par.
 
