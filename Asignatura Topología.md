@@ -8,7 +8,7 @@ Créditos ECTS: 9
 1. [[Distancias]]
 2. [[Continuidad y Convergencia]]
 3. [[Topologías]]
-4. [[Axiomas y propiedades topológicos]]
+4. [[1716461484-Axiomas-y-propiedades-topolgicos]]
 5. [[Homeomorfismos]]
 6. [[Invariantes Topológicos]]
 7. [[Variedades Topológicos]]

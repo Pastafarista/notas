@@ -10,14 +10,14 @@ tags:
 
 Sea $\mathcal{I}_{N+1} = \alpha_{0}f(x_{0}) + \ldots + \alpha_Nf(x_N)$ una [[1713865555-reglas-de-cuadratura|reglas de cuadratura]] que integra exactamente las funciones constantes. Entonces, el [[1713866424-grado-de-exactitud|grado de exactitud]] es $M$ si y solo si la regla $\mathcal{I}_{N+1}$ no da error al cuadrar las funciones ${1,x,x^2,x^3,\ldots,x^{M}}$ y da error al cuadrar $x^{M+1}$.
 
-Grado de exactitud de $\mathcal{I}_{N+1}(f)$ es $M \iff \mathcal{I}(1) = \mathcal{I}_{N+1}(1),\ldots , \mathcal{I}_{N+1}(x^{4}) = I_{N+1}(x^{4}) $ y $\matcal{I} (x^{M+1}) \neq \mathcal{I}_{N+1}(x^{M+1})$.
+Grado de exactitud de $\mathcal{I}_{N+1}(f)$ es $M \iff \mathcal{I}(1) = \mathcal{I}_{N+1}(1),\ldots , \mathcal{I}_{N+1}(x^{4}) = I_{N+1}(x^{4})$ y $\mathcal{I} (x^{M+1}) \neq \mathcal{I}_{N+1}(x^{M+1})$.
 
 $\impliedby$
 
 $$
 \begin{split}
     & f = A + Bx + Cx^2 + \ldots + Kx^M\\
-    & \mathca{I}_{N+1} ?= \mathcal{I}(f) = \int_{a}^{b} A + Bx + Cx^2 + \ldots dx =\\
+    & \mathcal{I}_{N+1} ?= \mathcal{I}(f) = \int_{a}^{b} A + Bx + Cx^2 + \ldots dx =\\
     & = \int_{a}^{b} A dx + \int_{a}^{b} Bx dx + \ldots + \int_{a}^{b} Kx^M dx =\\
     & = A I_{N+1}(1) + B I_{N+1}(x) + \ldots + K I_{N+1}(x^M)\\
     & I_{N+1}(x^{i}) = \alpha_{0}x_{0}^{i} + \ldots + \alpha_{N}x_{N}^{i} = \sum_{j=0}^{N} \alpha_{j}x_{j}^{i}\\
@@ -27,8 +27,8 @@ $$
     & \mathcal{I}_{N+1}(f) = \alpha_{0}f(x_{0}) + \ldots + \alpha_{N}f(x_{N}) = \sum_{j=0}^{N} \alpha_{j}f(x_{j}) =\\
     & = \sum_{j=0}^{M}A_i \sum_{j=0}^{N} \alpha_{j}x_{j}^i =\\
     & = \sum_{j=0}^{N} \sum_{i=0}^{M} A_{i} \alpha_{j}x_{j}^i =\\
-    & = \sum_{j=0}_N \alpha_j \sum_{i=0}^{M} A_i x_j^i =\\
-    & = \sum_{j=0}^{N} \alpha_j f(x) = \mathcal{I}_{N+1}(f)\\
+    & = \sum_{j=0}^{N} \alpha_j \sum_{i=0}^{M} A_i x_{j}^i =\\
+    & = \sum_{j=0}^{N} \alpha_j f(x) = \mathcal{I}_{N+1}(f)
 \end{split}
 $$
 
@@ -52,7 +52,7 @@ $$
     & \mathcal{I}_{N+1}(1) + \mathcal{I}(x) + 0\mathcal{I}(x^2) + \ldots + 1\mathcal{I}(x^{M+1}) =\\
     & = \mathcal{I}_{N+1}(x^{M+1}) = \mathcal{I}_{N+1}(f)\\
     & 1, x, x^2, \ldots , x^{M} \text{ son de grado } \le M \text{ luego:}\\
-    & \mathcal_{N+1}(1) = \mathcal{I}(1)\\
+    & \mathcal{I}_{N+1}(1) = \mathcal{I}(1)\\
     & \vdots\\
     & \mathcal{I}_{N+1}(x^{M}) = \mathcal{I}(M)\\
 \end{split}

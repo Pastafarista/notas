@@ -2,7 +2,6 @@
 id: 1708520495-ejercicio-24-ecuaciones-diferenciales-de-primer-orden
 aliases:
   - Ejercicio 24 ecuaciones diferenciales de primer orden
-  - Resuelve la ecuación $y' + \frac{y}{x+1} = -\frac{1}{2}(x+1)^3y^2$
 tags:
   - ecuaciones-diferenciales
 ---
