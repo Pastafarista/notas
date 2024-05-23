@@ -1,0 +1,16 @@
+
+- [x] [[La intersección infinita de abiertos puede ser cerrado]] ✅ 2023-11-02
+- [x] [[La unión infinita de cerrados puede ser abierto]] ✅ 2023-11-02
+- [x] [[Si un espacio tiene una base no numerable, puede tener otra numerable]] ✅ 2023-11-05
+- [x] [[En un espacio el mismo conjunto puede ser a la vez abierto y cerrado]] ✅ 2023-11-03
+- [x] [[Dos bases distintas pueden generan la misma topología]] ✅ 2023-11-06
+- [ ] [[Dos distancias no equivalentes pueden generan una topología equivalente]]
+- [x] [[La función identidad es continua si sólo si no refinamos la topología]] ✅ 2023-11-02
+- [ ] [[Si una sucesión de funciones converge a f(x) en cada punto f(x) no tiene porque ser continua]]
+- [ ] [[La distancia del supremo no generan los mismos abiertos que la integral]]
+- [x] [[La topología heredada no coincide siempre con la topología interior]] ✅ 2023-11-06
+- [x] [[El interior de A unión B no siempre es igual a la uniones de sus interiores]] ✅ 2023-11-05
+- [x] [[El interior de la frontera de A no siempre es nulo]] ✅ 2023-11-03
+- [x] [[La unión de clausuras no siempre es la clausura de la unión]] ✅ 2023-11-06
+- [x] [[No en todas las topologías las sucesiones convergen a un solo punto]] ✅ 2023-11-03
+- [x] [[Un conjunto no numerable puede ser no denso en ninguna parte]] ✅ 2023-11-05

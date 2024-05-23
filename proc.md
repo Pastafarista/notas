@@ -1,0 +1,3 @@
+#Linux 
+
+Directorio que contiene información de los procesos y aplicaciones en ejecución. Los archivos que almacena son virtuales los cuales no existen como tal sino que se generan en el momento en el que se acceden a ellos (en verdad /proc está vacío)

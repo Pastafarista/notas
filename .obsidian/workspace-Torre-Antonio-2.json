@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "eb0eccfbb52dc82d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4cea6ae5b54f0ec8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "340d760ca6e39375",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Continuidad y Convergencia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "011fd6fddb0d97eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Parcial Topología.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4e86a5567fe2d4e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "244518d10e158097",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "554683d05b13360a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a988ac8a293e06ae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f087fad2556bf1a9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "97fc64e8f3a9ee1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba2fcb9128938dbc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "509cb8dcc2d7c1fa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Continuidad y Convergencia.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d20d2c8f01cc8684",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Continuidad y Convergencia.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6c17d0387c005db4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d895f91e37aca93a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Continuidad y Convergencia.md"
+              }
+            }
+          },
+          {
+            "id": "52accc350be52343",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "340d760ca6e39375",
+  "lastOpenFiles": [
+    "La composición de dos funciones continuas es continua.md",
+    "Continuidad y Convergencia.md",
+    "Teorema de Banach.md",
+    "Una función es continua si y sólo si la preimagen de un conjunto abierto es abierta.md",
+    "Parcial Topología.md",
+    "Definiciones Parcial Topología.md",
+    "Ejercicio 9 Tema 1.md",
+    "Contraejemplos Parcial Topología.md",
+    "Métrica del supremo.md",
+    "Son distancias.md",
+    "Distancia Euclidiana.md",
+    "Distancias.md",
+    "Métrica Integral.md",
+    "Calcula la distancia del supremo y la integral entre dos funciones.md",
+    "Ejercicios Parcial Topología.md",
+    "Ejercicio 1 Tema 2 Topología.md",
+    "Topología.md",
+    "Espacios Métricos.md",
+    "Excalidraw/diagramas venn.md",
+    "Topologías.md",
+    "Función de Thomae.md",
+    "Función de Dirichlet.md",
+    "Métrica de funciones.md",
+    "Excalidraw/Distancia Máximo 2023-10-28 21.59.51.excalidraw.md",
+    "Dibuja entornos.md",
+    "Ejercicio Inventado Dibuja Entornos.md",
+    "Untitled 5.canvas",
+    "Untitled 4.canvas",
+    "Teoría Topología - 5. Interior y clausura. Propiedad de Hausdorff 1.pptx",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Excalidraw/Scripts/Downloaded/Boolean Operations.svg",
+    "Excalidraw/Scripts/Downloaded/Set background color of unclosed line object by adding a shadow clone.svg",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Untitled 1.canvas",
+    "Excalidraw",
+    "Topología - 2-3 Topologías.pdf",
+    "Topología - 3. Topologías 2.pdf",
+    "Topología - 4. Topología del orden.pptx",
+    "Topología - 3. Espacios topológicos.pptx",
+    "Topología - 2. Continuidad y convergencia.pptx",
+    "Topología - 1. Distancias.pptx",
+    "Untitled.canvas",
+    "Pasted image 20231015170547.png"
+  ]
+}

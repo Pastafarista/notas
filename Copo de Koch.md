@@ -1,0 +1,12 @@
+
+- Es un objeto geométrico autosimilar
+- Tiene longitud infinita pero area finita
+$$\begin{split}
+	& L(n) = 3 \cdot \left( \frac{4}{3} \right)^n\\
+	& lim_{n \rightarrow \infty} L(n) = \infty
+\end{split}$$
+- No es diferenciable en ningún punto
+
+- Su [[Dimensión de Hausdorff]] es de $1.26$
+
+https://www.youtube.com/watch?v=eKY_1j9VrEA

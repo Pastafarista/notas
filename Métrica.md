@@ -1,0 +1,11 @@
+---
+aliases:
+  - distancia
+  - Distancia
+---
+#topología 
+
+**Se define una métrica (o distancia) en un conjunto $X$ si:**
+1. $d(x,y) = 0 \Longleftrightarrow x=y$
+2. $d(x,y) = d(y,x)$
+3. $d(x,y) \leq d(x,z) + d(z,y)$

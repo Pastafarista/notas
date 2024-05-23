@@ -1,0 +1,10 @@
+---
+id: Varianza
+aliases: []
+tags: []
+---
+
+$$s^2= \frac{\sum_{i=1}^{n}x_i^2}{n}-\overline{x}^2$$
+
+- Si los datos se multiplican por $\delta$ entonces la varianza queda multiplicada por $\delta^2$
+- Es siempre positiva

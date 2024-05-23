@@ -1,0 +1,14 @@
+#definiciones-estadistica 
+
+- La mediana de una serie de observaciones $\{x_1,x_2,...,x_n\}$, representa el valor de la variable tal que, si los valores están ordenados de mayor a menos, la mitad de los valores son menores o iguales y el resto mayores
+- En [[Variables discretas|variable discreta]] se calcula:
+$$Me = \begin{cases}
+	& x_i \;\; \text{  si  } \;\; N_{i-1} < \frac{n}{2} < N_i\\
+	& \frac{x_{i-1}+x_i}{2} \;\; \text{  si  } \;\; N_{i-1}=\frac{n}{2} < N_i
+\end{cases}$$
+- En [[Variables continuas|variable continua]] se calcula:
+$$\begin{split}
+& \text{Si } N_{i-1} \leq \frac{n}{2} < N_i \implies Me \in [L_{i-1},L_i)\\
+& Me = L_{i-1} + \frac{\frac{n}{2}-N_{i-1}}{n_i}\cdot c_i
+\end{split}$$
+- Si se le suma o multiplica una constante $\delta$ a los valores, la mediana queda aumentada o multiplicada en la misma cantidad

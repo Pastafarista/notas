@@ -1,0 +1,16 @@
+- [x] [[La composición de dos funciones continuas es continua]] ✅ 2023-11-14
+- [x] [[La distancia euclidiana, la del máximo y la taxicab son equivalentes]]✅ 2023-11-04
+- [x] [[Dos distancias equivalentes generan una topología equivalente]] ✅ 2023-11-06
+- [x] [[En R toda base se puede reducir]] ✅ 2023-11-01
+- [x] [[La función identidad es continua si sólo si no refinamos la topología]] ✅ 2023-11-01
+- [x] [[Una función es continua si y sólo si la preimagen de un conjunto abierto es abierta]] ✅ 2023-11-03
+- [x] [[Teorema de continuidad y convergencia]] ✅ 2023-11-02
+- [x] [[Teorema de Banach]] ✅ 2023-11-02
+- [x] [[Cada conjunto cerrado coincide con su clausura]] ✅ 2023-11-03
+- [x] [[La clausura de H es la intersección de todos los cerrados que contienen H]] ✅ 2023-11-03
+- [x] [[La clausura de un subespacio es el propio espacio si sólo si su intersección con cualquier abierto no es nula]] ✅ 2023-11-05
+- [ ] [[R con Topología de Sorgenfrey no es metrizable]]
+- [ ] [[R con la cofinita no es 1AN]] 
+- [x] [[Un espacio es T1 si y solo si los puntos son cerrados]] ✅ 2023-11-02
+- [x] [[El complemento de no denso en ninguna parte es denso]] ✅ 2023-11-03
+
