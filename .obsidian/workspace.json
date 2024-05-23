@@ -170,6 +170,14 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "6d2374eca2b427ff",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
         "currentTab": 12
@@ -218,12 +226,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "05892576f71fc1b4",
@@ -300,6 +308,23 @@
   },
   "active": "73d4003233685862",
   "lastOpenFiles": [
+    "Untitled 1.canvas",
+    "Untitled 2.canvas",
+    "Pasted image 20231015170547.png",
+    "Untitled 5.canvas",
+    "Pasted image 20240131130105.png",
+    "Untitled 3.canvas",
+    "1713105354-laboratorio-1-clculo-numrico.pdf",
+    "Untitled 6.canvas",
+    "Pasted image 20240118122445.png",
+    "Pasted image 20240124185628.png",
+    "Excalidraw/Scripts/Downloaded/Boolean Operations.svg",
+    "Excalidraw/Scripts/Downloaded/Set background color of unclosed line object by adding a shadow clone.svg",
+    "Untitled 4.canvas",
+    "Pasted image 20240124191249.png",
+    "Untitled.canvas",
+    "Topología - 2. Topologías.pdf",
+    "Pasted image 20240118122759.png",
     "1713867804-teorema-de-manolo.md",
     "1707912287-ecuaciones-diferenciales-exactas.md",
     "Componentes conexas.md",
@@ -324,7 +349,6 @@
     "1709995829-ejercicio-2-hoja-1.md",
     "1709986563-ejercicio-1-hoja-1.md",
     "1710158987-ejercicio-7-hoja-1.md",
-    "1709205707-algoritmo-de-bsqueda-de-circuito-euleriano.md",
-    "1709205895-algoritmo-de-bsqueda-de-recorrido-euleriano.md"
+    "1709205707-algoritmo-de-bsqueda-de-circuito-euleriano.md"
   ]
 }
