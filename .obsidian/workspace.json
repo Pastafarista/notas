@@ -167,8 +167,52 @@
             "id": "73d4003233685862",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1713865555-reglas-de-cuadratura.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ea36875edd20639",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1716564616-teora-examen-final-clculo-numrico.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20ad0a10cf2adcae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1716491727-conjunto-cerrado.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00d17abd6451db6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1716491727-conjunto-abierto.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           },
           {
@@ -180,7 +224,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -247,6 +291,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1716491727-conjunto-abierto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,6 +308,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1716491727-conjunto-abierto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -284,7 +330,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1716491727-conjunto-abierto.md"
+              }
             }
           }
         ],
@@ -306,15 +354,50 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "73d4003233685862",
+  "active": "00d17abd6451db6e",
   "lastOpenFiles": [
+    "1715075555-mtodo-de-la-secante.md",
+    "1716491727-conjunto-abierto.md",
+    "1715073673-mtodo-de-la-biseccin.md",
+    "1715075555-mtodo-de-la-secante.md~",
+    "1715073673-mtodo-de-la-biseccin.md~",
+    "1716491727-conjunto-cerrado.md",
+    "1716715022-teorema-de-bolzano.md",
+    "1716491727-funcin-continua.md",
+    "1715081050-atraccin-local-en-la-iteracin-de-punto-fijo.md",
+    "1716564616-teora-examen-final-clculo-numrico.md",
+    "1715679859-teorema-de-puntos-fijos-repulsores.md",
+    "1715678314-teorema-de-convergencia-cuadrtica.md",
+    "1713875089-mtodo-de-coeficientes-indeterminados-reglas-cuadratura.md",
+    "1716663320-mtodo-del-desarrollo-de-taylor.md~",
+    "1715155585-laboratorio-8-clculo-numrico.md",
+    "1713865555-reglas-de-cuadratura.md",
+    "1713873299-mtodo-interpolatorio.md",
+    "1713865555-reglas-de-cuadratura.md~",
+    "1716663342-polinomio-interpolador-de-taylor.md",
+    "1716663342-polinomio-interpolador-de-taylor.md~",
+    "1716663320-mtodo-del-desarrollo-de-taylor.md",
+    "1713131451-teora-parcial-clculo-numrico.md",
+    "1713105333-laboratorios-clculo-numrico.md",
+    "1713866424-grado-de-exactitud.md",
+    "1713865721-regla-del-punto-medio.md",
+    "1713866465-grado-de-exactitud-para-la-regla-de-los-rectngulos.md",
+    "1713866869-grado-de-exactitud-para-la-regla-del-punto-medio.md",
+    "1713865832-regla-de-simpson.md",
+    "1713865822-regla-del-trapecio.md",
+    "1713865627-regla-de-los-rectngulos.md",
+    "1716660069-grado-de-exactitud-para-la-regla-del-trapecio.md~",
+    "1716660069-grado-de-exactitud-para-la-regla-del-trapecio.md",
+    "1716460391-laboratorio-7-clculo-numrico.md~",
+    "1709641715-polinomio-interpolador-de-lagrange.md~",
+    "1716653781-forma-de-newton.md~",
+    "1716650816-forma-de-lagrange.md~",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
     "Pasted image 20231015170547.png",
     "Untitled 5.canvas",
     "Pasted image 20240131130105.png",
     "Untitled 3.canvas",
-    "1713105354-laboratorio-1-clculo-numrico.pdf",
     "Untitled 6.canvas",
     "Pasted image 20240118122445.png",
     "Pasted image 20240124185628.png",
@@ -323,32 +406,6 @@
     "Untitled 4.canvas",
     "Pasted image 20240124191249.png",
     "Untitled.canvas",
-    "Topología - 2. Topologías.pdf",
-    "Pasted image 20240118122759.png",
-    "1713867804-teorema-de-manolo.md",
-    "1707912287-ecuaciones-diferenciales-exactas.md",
-    "Componentes conexas.md",
-    "1708534542-puente.md",
-    "1713209898-los-polinomios-de-taylor-son-lmites-de-los-de-lagrange.md",
-    "1708597493-algoritmo-de-krusal.md",
-    "1708597385-construccin-de-rboles-recubridores-mnimos.md",
-    "1713210516-interpolante-lineal-a-trozos.md",
-    "1708534631-vrtice-de-corte.md",
-    "1713201633-teorema-error-polinomio-lagrange.md",
-    "1713209182-teorema-diferencia-divididas-derivadas.md",
-    "1716491728-varianza-explicada.md",
-    "1715678314-teorema-de-convergencia-cuadrtica.md",
-    "1716491727-funcin-continua.md",
-    "1713174723-teorema-error-polinomio-taylor.md",
-    "1715077058-iteracin-de-punto-fijo.md",
-    "1716491728-varianza-residual.md",
-    "1713105333-laboratorios-clculo-numrico.md",
-    "1716491727-coeficiente-de-determinacin-lineal.md",
-    "1715679859-teorema-de-puntos-fijos-repulsores.md",
-    "1709999138-ejercicio-3-hoja-1.md",
-    "1709995829-ejercicio-2-hoja-1.md",
-    "1709986563-ejercicio-1-hoja-1.md",
-    "1710158987-ejercicio-7-hoja-1.md",
-    "1709205707-algoritmo-de-bsqueda-de-circuito-euleriano.md"
+    "Pasted image 20240118122759.png"
   ]
 }

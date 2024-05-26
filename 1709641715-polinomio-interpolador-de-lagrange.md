@@ -17,7 +17,7 @@ $$
 El polinomio interpolador de Lagrange se puede hallar con varios métodos:
 
 - Coeficientes indeterminados
-- Forma de Lagrange
-- Forma de Newton
+- [[1716650816-forma-de-lagrange|Forma de Lagrange]]
+- [[1716653781-forma-de-newton|Forma de Newton]]
 
 

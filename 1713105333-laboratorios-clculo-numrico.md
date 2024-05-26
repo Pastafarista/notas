@@ -15,6 +15,7 @@ tags:
 - [x] [[1713122391-laboratorio-5-clculo-numrico|Laboratorio 5]] ✅ 2024-04-15
 - [x] Laboratorio 6 ✅ 2024-04-15
 
-- [ ] [[1716460391-laboratorio-7-clculo-numrico|Laboratorio 7]]
+- [x] [[1716460391-laboratorio-7-clculo-numrico|Laboratorio 7]] ✅ 2024-05-25
 - [ ] [[1715155585-laboratorio-8-clculo-numrico|Laboratorio 8]]
 - [ ] [[1716460829-laboratorio-9-clculo-numrico|Laboratorio 9]]
+

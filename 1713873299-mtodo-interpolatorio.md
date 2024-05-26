@@ -24,3 +24,5 @@ $$
 $$
 
 Decimos que el método interpolatorio da como resultado la regla interpolatoria ([[1713865555-reglas-de-cuadratura|regla de cuadratura]]) correspondiente a los nodos $x_i$.
+
+La regla interpolatoria de $N+1$ nodos tendrá [[1713866424-grado-de-exactitud|grado de exactitud]] mayor o igual a $N$

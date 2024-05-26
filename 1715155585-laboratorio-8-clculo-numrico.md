@@ -94,7 +94,7 @@ Para un polinomio de grado $0$ de la forma $P(x)=A$ vemos que el grado de exacti
 
 $$
 \begin{split}
-	& \mathcal{I}_{5}(f) = \frac{A}{4} + \frac{3A}{4} + \frac{3A}{4} + \frac{A}{4} = 2A\\
+	& \mathcal{I}_{4}(f) = \frac{A}{4} + \frac{3A}{4} + \frac{3A}{4} + \frac{A}{4} = 2A\\
 	& \mathcal{I}(f) = \int_{-1}^{1}Adx = \left[ Ax\right]_{-1}^{1} = 2A
 \end{split}
 $$
@@ -103,7 +103,7 @@ Para un polinomio de grado 1 de la forma $P(x)= A + Bx$ vemos que el grado de ex
 
 $$
 \begin{split}
-	& \mathcal{I}_5(f) = \frac{1}{4}(A-B) + \frac{3}{4}\left(A - \frac{B}{3}\right) + \frac{3}{4}\left(A + \frac{B}{3} \right) + \frac{1}{4}(A + B) =\\
+	& \mathcal{I}_4(f) = \frac{1}{4}(A-B) + \frac{3}{4}\left(A - \frac{B}{3}\right) + \frac{3}{4}\left(A + \frac{B}{3} \right) + \frac{1}{4}(A + B) =\\
 	& = A \left( 2\cdot \frac{1}{4} + 2\cdot\frac{3}{4} \right) + B\left( -\frac{1}{4} - \frac{1}{4} + \frac{1}{4} + \frac{1}{4} \right) = 2A\\
 	& \mathcal{I}(f) = \int_{-1}^{1} A + Bx \;dx = \left[ Ax \right]_{-1}^{1} + \left[ \frac{Bx^2}{4} \right]_{-1}^{1} = 2A
 \end{split}
@@ -113,7 +113,7 @@ Para un polinomio de grado 2 de la forma $P(x)= A + Bx + Cx^2$ vemos que el grad
 
 $$
 \begin{split}
-    & \mathcal{I}_5(f) = \frac{1}{4}(A - B + C) + \frac{3}{4}\left(A - \frac{B}{3} + \frac{C}{9}\right) + \frac{3}{4}\left(A + \frac{B}{3} + \frac{C}{9}\right)\\
+    & \mathcal{I}_4(f) = \frac{1}{4}(A - B + C) + \frac{3}{4}\left(A - \frac{B}{3} + \frac{C}{9}\right) + \frac{3}{4}\left(A + \frac{B}{3} + \frac{C}{9}\right)\\
     & + \frac{1}{4}(A + B + C) = A\left( \frac{1}{4} + \frac{3}{4} + \frac{3}{4} + \frac{1}{4} \right ) + B \left( -\frac{1}{4} - \frac{1}{4} + \frac{1}{4} + \frac{1}{4} \right) +\\
     & + C \left( \frac{1}{4} + \frac{1}{12} + \frac{1}{12} + \frac{1}{4} \right) = 2A + \frac{2C}{3} \\
     & \mathcal{I}(f) = \int_{-1}^{1} A + Bx + Cx^2 dx = \left[ Ax \right]_{-1}^{1} + \left[ \frac{Bx^2}{2} \right]_{-1}^{1} + \left[ \frac{Cx^3}{3} \right]_{-1}^{1} =\\
@@ -125,7 +125,7 @@ Para un polinomio de grado 3 de la forma $P(x)= A + Bx + Cx^2 + Dx^3$ vemos que 
 
 $$
 \begin{split}
-    & \mathcal{I}_5(f) = \frac{1}{4}(A - B + C - D) + \frac{3}{4}\left(A - \frac{B}{3} + \frac{C}{9} - \frac{D}{27}\right)+\\
+    & \mathcal{I}_4(f) = \frac{1}{4}(A - B + C - D) + \frac{3}{4}\left(A - \frac{B}{3} + \frac{C}{9} - \frac{D}{27}\right)+\\
     &+ \frac{3}{4}\left(A + \frac{B}{3} + \frac{C}{9} + \frac{D}{27}\right) + \frac{1}{4}(A + B + C + D) =\\
     & = A \left( \frac{1}{4} + \frac{3}{4} + \frac{3}{4} + \frac{1}{4} \right) + B \left( -\frac{1}{4} - \frac{1}{4} + \frac{1}{4} + \frac{1}{4} \right) +\\
     & + C \left( \frac{1}{4} + \frac{1}{12} + \frac{1}{12} + \frac{1}{4} \right) + D \left( -\frac{1}{4} - \frac{1}{36} + \frac{1}{36} + \frac{1}{4} \right) =\\
@@ -142,9 +142,9 @@ $$
 \int_{x^{*}-h}^{x^{*}+h} f(x)dx \quad \text{para} \quad h>0
 $$
 
-Obtenga la regla de grado de exactitud máximo y determine tal grado.
+Obtenga la regla de [[1713866424-grado-de-exactitud|grado de exactitud]] máximo y determine tal grado.
 
- *Pista: Utiliza el desarrollo de Taylor de $f(x)$ en torno a $x^{*}$.*
+ *Pista: Utiliza el [[1716663342-polinomio-interpolador-de-taylor|desarrollo de Taylor]] de $f(x)$ en torno a $x^{*}$.*
 
  El polinomio de Taylor en torno a $x^{*}$ de $f(x)$ de grado $N$ es:
 
@@ -180,7 +180,7 @@ S \begin{split}
 
  $$
  \begin{split}
-    & \mathcal{I}_{5}(f) = 2h\cdot f(x^{*}) + \frac{h^3}{3}f''(x^{*}) + 2\frac{h^{5}}{5!}f^{4)}(x^{*}) = 2A \cdot h\\
+    & \mathcal{I}^{Taylor}(f) = 2h\cdot f(x^{*}) + \frac{h^3}{3}f''(x^{*}) + 2\frac{h^{5}}{5!}f^{4)}(x^{*}) = 2A \cdot h\\
     & \mathcal{I}(f) = \int_{x^{*}-h}^{x^{*}+h} Adx = \left[ Ax \right]_{x^{*}-h}^{x^{*}+h} = 2Ah
  \end{split}
  $$
@@ -189,7 +189,7 @@ S \begin{split}
 
  $$
  \begin{split}
-    & \mathcal{I}_{5}(f) = 2h\cdot f(x^{*}) + \frac{h^3}{3}f''(x^{*}) + 2\frac{h^{5}}{5!}f^{4)}(x^{*}) = 2A \cdot h =\\
+    & \mathcal{I}^{Taylor}(f) = 2h\cdot f(x^{*}) + \frac{h^3}{3}f''(x^{*}) + 2\frac{h^{5}}{5!}f^{4)}(x^{*}) = 2A \cdot h =\\
     & = 2Ah + 2Bhx^{*}\\
     & \mathcal{I}(f) = \int_{x^{*}-h}^{x^{*}+h} A + Bx \;dx = \left[ Ax + \frac{Bx^2}{2} \right]_{x^{*}-h}^{x^{*}+h} =\\
     & = 2Ah + 2Bhx^{*}
@@ -200,14 +200,17 @@ Para un polinomio de grado $2$ de la forma $P(x) = A + Bx + Cx^2$ vemos que el g
 
 $$
 \begin{split}
-    & \mathcal{I}_{5}(f) = 2h\cdot f(x^{*}) + \frac{h^3}{3}f''(x^{*}) + 2\frac{h^{5}}{5!}f^{IV)}(x^{*}) = \\
+    & \mathcal{I}^{Taylor}(f) = 2h\cdot f(x^{*}) + \frac{h^3}{3}f''(x^{*}) + 2\frac{h^{5}}{5!}f^{IV)}(x^{*}) = \\
     & = 2h \cdot (A + Bx^{*} + C(x^{*})^2) + \frac{h^3}{3} \cdot 2C\\ 
     & \mathcal{I}(f) = \int_{x^{*}-h}^{x^{*}+h} A + Bx + Cx^2 \;dx = \left[ Ax + \frac{Bx^2}{2} + \frac{Cx^3}{3} \right]_{x^{*}-h}^{x^{*}+h} =\\ 
     & = 2Ah + 2Bhx^{*} + \frac{2Ch^{3}}{3} + 2Ch(x^{*})^2\\
 \end{split}
 $$
 
-En general, para $N$ par tendremos $\frac{N+1}{2}$ sumandos y para $N$ impart $\frac{N}{2}$ sumandos. Por lo tanto para $N$ par el [[1713866424-grado-de-exactitud|grado de exactitud]] será $\ge \frac{N-1}{2}$ y para N impar $\ge \frac{N-2}{2}$
+En general, nuestra regla de cuadratura coincidirá cuando aproximamos un polinomio $\le N$, por lo tanto el [[1713866424-grado-de-exactitud|grado de exactitud]] es $\ge N$. Más concretamente:
+
+- Cuando $N$ es par, como la derivada $N+1$ se anula, por lo tanto el grado de exactitud es $N+1$
+- Cuando $N$ es impar, esto no ocurre, por lo que el grado de exactitud es $N$
 
 3. Problema 3: Regla de cuadratura III
 
@@ -274,7 +277,7 @@ $$
 \end{split}
 $$
 
-Se nos presenta la misma estructura que el método de coeficientes indeterminados, en nuestro caso tendríamos dos nodos de interpolación $x_{0}=\mu, x_{1}=b$ (uno de los nodos es el extremo del intervalo)y los pesos $\alpha_{0}=A, \alpha_{1}=B$. Como tenemos dos nodos, nos bastará con dos ecuaciones para resolver el sistema.
+Se nos presenta la misma estructura que el [[1713875089-mtodo-de-coeficientes-indeterminados-reglas-cuadratura|método de coeficientes indeterminados]], en nuestro caso tendríamos dos nodos de interpolación $x_{0}=\mu, x_{1}=b$ (uno de los nodos es el extremo del intervalo) y los pesos $\alpha_{0}=A, \alpha_{1}=B$. Como tenemos dos nodos, nos bastará con dos ecuaciones para resolver el sistema.
 
 $$
 \begin{split}

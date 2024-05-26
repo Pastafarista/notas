@@ -21,5 +21,5 @@ $$
 
 - [[1713866465-grado-de-exactitud-para-la-regla-de-los-rectngulos|Grado de exactitud para la regla de los rectángulos]] 
 - [[1713866869-grado-de-exactitud-para-la-regla-del-punto-medio#grado-de-exactitud-para-la-regla-del-punto-medio|Grado de exactitud para la regla del punto medio]]
-- La [[1713865822-regla-del-trapecio|regla del trapecio]] tiene grado de exactitud $M=1$
+- [[1716660069-grado-de-exactitud-para-la-regla-del-trapecio|Grado de exactitud para la regla del trapecio]]
 - La [[1713865832-regla-de-simpson|regla de Simpson]] tiene grado de exactitud $M=3$

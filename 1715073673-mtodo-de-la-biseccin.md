@@ -10,7 +10,7 @@ tags:
 
 Sea $f$ definida y [[1716491727-funcin-continua|continua]] en un intervalo [[1716491727-conjunto-cerrado|cerrado]] y acotado $I_{0}=[a,b]$ y tal que $f(a)\cdot f(b)<0$.
 
-Por el teorema de Bolzano, existe $c \in  (a,b)$ tal que $f(c) = 0$
+Por el [[1716715022-teorema-de-bolzano|teorema de Bolzano]], existe $c \in  (a,b)$ tal que $f(c) = 0$
 
 $$
 \begin{split}
@@ -22,3 +22,6 @@ $$
 \end{split}
 $$
 
+- Funciona siempre.
+- Da cotas superior e inferior para la raíz buscada.
+- Es más lento que otros, que, a cambio, son más inseguros.

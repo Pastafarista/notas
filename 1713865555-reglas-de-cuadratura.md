@@ -29,3 +29,5 @@ $$
 - [[1713865822-regla-del-trapecio|Regla del trapecio]]
 - [[1713865832-regla-de-simpson|Regla de Simpson]]
 - [[1713873299-mtodo-interpolatorio|Regla interpolatoria]]
+- [[1713875089-mtodo-de-coeficientes-indeterminados-reglas-cuadratura|Regla coeficientes indeterminados]]
+- [[1716663320-mtodo-del-desarrollo-de-taylor|Regla de desarrollo de Taylor]]

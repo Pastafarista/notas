@@ -6,7 +6,7 @@ tags:
   - matemática-discreta-II
 ---
 
-# Polinomio Ciclotómico
+# Polinomio ciclotómico
 
 $$
 \begin{split}
