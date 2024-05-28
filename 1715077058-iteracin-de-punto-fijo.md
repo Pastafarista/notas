@@ -17,7 +17,7 @@ $x^{*}$ es un [[1716491727-punto-fijo|punto fijo]] de $g$
 $$
 \begin{split}
     & f(x) = x - 0.007 \sin(x) - 0.7 = 0\\
-    & x_{0} & = 0.7 \text{ (aproximación)}\\
+    & x_{0} = 0.7 \text{ (aproximación)}\\
     & x^{*} \approx 0.7 \\
     & 0.007 \sin (0.7) = 0.004510\\
     & x_{1} = 0.7 + 0.004510 = 0.704510\\
@@ -47,7 +47,7 @@ Si ocurre, entonces dada una tolerancia existe un valor $N$ tal que $x_N,x_{N+1}
 - Si $x_n \implies \infty$ cuando $n \to \infty$ y $g$ [[1716491727-funcin-continua|continua]], tomando límites en $x_{n+1}=g(x_n)$
 
 $$
-\alpha = \lim_{n \to \infty} x^{n+1} = \lim_{n \to \infty} g(x_n) = g(\lim_{n \to \infty} x_n) = g(\alpha)
+\alpha = \lim_{n \to \infty} x_{n+1} = \lim_{n \to \infty} g(x_n) = g(\lim_{n \to \infty} x_n) = g(\alpha)
 $$
 
-Es condición necesaria para que la iteración de punto fijo tenga éxito que $\alpha$ sea un punto fijo de $g$.
+Es condición necesaria para que la iteración de punto fijo tenga éxito que $\alpha$ sea un [[1716491727-punto-fijo|punto fijo]] de $g$.

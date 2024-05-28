@@ -8,7 +8,7 @@ tags:
 
 # Teorema de puntos fijos repulsores
 
-La condición $|g'(\alpha)|<1$ que garantica la [[1715081050-atraccin-local-en-la-iteracin-de-punto-fijo|atracción local]] al [[1716491727-punto-fijo|punto fijo]] es (casi) necesaria.
+La condición $|g'(\alpha)|<1$ que garantica que la [[1715081050-atraccin-local-en-la-iteracin-de-punto-fijo|atracción local]] al [[1716491727-punto-fijo|punto fijo]] es (casi) necesaria.
 
 ## Enunciado
 
@@ -28,11 +28,11 @@ Suponemos por reducción al absurdo que existe $n_{2}$ tal que para todo $n\ge n
 
 Sea $n_{0}=\max(n_{1},n_{2})$, para todo $n\ge n_{0}$ se tiene que $x_{n} \in [\alpha - r, \alpha + r]$ y $x_{n} \neq \alpha$.
 
-Como $x_{n}-\alpha = g(x_{n}) - g(\alpha)$ por el [[1715082816-teorema-del-valor-medio-de-lagrange|teorema del valor medio de Lagrange]], existe $\beta_{n} \in (x_{n}, \alpha)$ tal que $x_{n+1}-\alpha = g'(\beta_{n})(x_{n}-\alpha)$
+Como $x_{n+1}-\alpha = g(x_{n}) - g(\alpha)$ por el [[1715082816-teorema-del-valor-medio-de-lagrange|teorema del valor medio de Lagrange]], existe $\beta_{n} \in (x_{n}, \alpha)$ tal que $x_{n+1}-\alpha = g'(\beta_{n})(x_{n}-\alpha)$
 
-Por tanto para $n\ge n_{0}$, $\beta_n \in (x_n,\alpha) \subset [x-r,x+r]$ y
+Por tanto para $n\ge n_{0}$, $\beta_n \in (x_n,\alpha) \subset [\alpha-r,\alpha+r]$ y
 $$
-|x_{n+1}-\alpha| = |g'(\beta_{n})||x_{n}-\alpha| = |g'(\beta)| |x_{n}-\alpha | \ge  M |x_{n} - \alpha |
+|x_{n+1}-\alpha| = |g'(\beta_{n})| \cdot |x_{n}-\alpha| = |g'(\beta)| |x_{n}-\alpha | \ge  M |x_{n} - \alpha |
 $$
 
 luego

@@ -17,7 +17,7 @@ $$\begin{split}
 
 ## Teorema de Taylor o Fórmula infinitesimal del resto
 
-Para $n \geq 1$, sea $f$ una función para la que el problema de Taylor se pueda proponer, es decir, que $f$ sea $n$ veces derivable en $x_0$, el polinomio de Taylor $P$ verifica:
+Para $n \geq 1$, sea $f$ una función para la que el problema de Taylor se pueda proponer, es decir, que $f$ sea $n$ veces derivable en $x_0$, el [[1716663342-polinomio-interpolador-de-taylor|polinomio de Taylor]] $P$ verifica:
 
 $$ \lim_{x \rightarrow x_0} f-P= o((x- x_0))^n \;\;\;\;\; (a)$$
 

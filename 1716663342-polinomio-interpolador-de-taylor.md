@@ -2,6 +2,7 @@
 id: 1716663342-polinomio-interpolador-de-taylor
 aliases:
   - Polinomio interpolador de Taylor
+  - Polinomio de Taylor
 tags:
   - cálculo-numérico
 ---

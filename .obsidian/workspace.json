@@ -208,7 +208,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1716491727-conjunto-abierto.md",
+                "file": "1715678314-teorema-de-convergencia-cuadrtica.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75ca3f240f3e6223",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1716564616-teora-examen-final-clculo-numrico.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe11b5360c406f3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1716564616-teora-examen-final-clculo-numrico.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dcdf6f24b29c817e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1716918785-ejercicio-15-tema-4-ecuaciones-diferenciales.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -224,7 +263,7 @@
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -291,7 +330,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1716491727-conjunto-abierto.md",
+                "file": "1716918785-ejercicio-15-tema-4-ecuaciones-diferenciales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -308,7 +347,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1716491727-conjunto-abierto.md",
+                "file": "1716918785-ejercicio-15-tema-4-ecuaciones-diferenciales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -331,7 +370,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1716491727-conjunto-abierto.md"
+                "file": "1716918785-ejercicio-15-tema-4-ecuaciones-diferenciales.md"
               }
             }
           }
@@ -354,44 +393,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "00d17abd6451db6e",
+  "active": "dcdf6f24b29c817e",
   "lastOpenFiles": [
     "1715075555-mtodo-de-la-secante.md",
-    "1716491727-conjunto-abierto.md",
+    "1716653895-diferencia-dividida.md",
     "1715073673-mtodo-de-la-biseccin.md",
+    "1715081050-atraccin-local-en-la-iteracin-de-punto-fijo.md",
+    "1716564616-teora-examen-final-clculo-numrico.md",
+    "1716744725-teorema-de-rolle.md",
+    "1716460829-laboratorio-9-clculo-numrico.md",
+    "1715679859-teorema-de-puntos-fijos-repulsores.md",
+    "1715678314-teorema-de-convergencia-cuadrtica.md",
+    "1713131451-teora-parcial-clculo-numrico.md",
+    "1716663342-polinomio-interpolador-de-taylor.md",
+    "1713169805-notaciones-de-landau.md",
+    "1709029256-caracterizacin-analtica-del-polinomio-de-taylor.md",
+    "1715082816-teorema-del-valor-medio-de-lagrange.md",
+    "1716460829-laboratorio-9-clculo-numrico.md~",
+    "1715077058-iteracin-de-punto-fijo.md",
+    "1716491727-conjunto-abierto.md",
     "1715075555-mtodo-de-la-secante.md~",
     "1715073673-mtodo-de-la-biseccin.md~",
     "1716491727-conjunto-cerrado.md",
     "1716715022-teorema-de-bolzano.md",
     "1716491727-funcin-continua.md",
-    "1715081050-atraccin-local-en-la-iteracin-de-punto-fijo.md",
-    "1716564616-teora-examen-final-clculo-numrico.md",
-    "1715679859-teorema-de-puntos-fijos-repulsores.md",
-    "1715678314-teorema-de-convergencia-cuadrtica.md",
     "1713875089-mtodo-de-coeficientes-indeterminados-reglas-cuadratura.md",
     "1716663320-mtodo-del-desarrollo-de-taylor.md~",
     "1715155585-laboratorio-8-clculo-numrico.md",
     "1713865555-reglas-de-cuadratura.md",
     "1713873299-mtodo-interpolatorio.md",
     "1713865555-reglas-de-cuadratura.md~",
-    "1716663342-polinomio-interpolador-de-taylor.md",
     "1716663342-polinomio-interpolador-de-taylor.md~",
     "1716663320-mtodo-del-desarrollo-de-taylor.md",
-    "1713131451-teora-parcial-clculo-numrico.md",
     "1713105333-laboratorios-clculo-numrico.md",
     "1713866424-grado-de-exactitud.md",
-    "1713865721-regla-del-punto-medio.md",
-    "1713866465-grado-de-exactitud-para-la-regla-de-los-rectngulos.md",
-    "1713866869-grado-de-exactitud-para-la-regla-del-punto-medio.md",
-    "1713865832-regla-de-simpson.md",
-    "1713865822-regla-del-trapecio.md",
-    "1713865627-regla-de-los-rectngulos.md",
     "1716660069-grado-de-exactitud-para-la-regla-del-trapecio.md~",
-    "1716660069-grado-de-exactitud-para-la-regla-del-trapecio.md",
     "1716460391-laboratorio-7-clculo-numrico.md~",
     "1709641715-polinomio-interpolador-de-lagrange.md~",
     "1716653781-forma-de-newton.md~",
-    "1716650816-forma-de-lagrange.md~",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
     "Pasted image 20231015170547.png",
