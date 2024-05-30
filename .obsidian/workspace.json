@@ -247,7 +247,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1716918785-ejercicio-15-tema-4-ecuaciones-diferenciales.md",
+                "file": "1714382822-ejercicio-15-tema-6-ecuaciones-diferenciales.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -330,7 +330,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1716918785-ejercicio-15-tema-4-ecuaciones-diferenciales.md",
+                "file": "1714382822-ejercicio-15-tema-6-ecuaciones-diferenciales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -347,7 +347,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1716918785-ejercicio-15-tema-4-ecuaciones-diferenciales.md",
+                "file": "1714382822-ejercicio-15-tema-6-ecuaciones-diferenciales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -370,7 +370,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1716918785-ejercicio-15-tema-4-ecuaciones-diferenciales.md"
+                "file": "1714382822-ejercicio-15-tema-6-ecuaciones-diferenciales.md"
               }
             }
           }
@@ -395,6 +395,21 @@
   },
   "active": "dcdf6f24b29c817e",
   "lastOpenFiles": [
+    "1717059100-ejercicio-10-tema-6-ecuaciones-diferenciales.md",
+    "1713782408-ejercicio-2-tema-6-ecuaciones-diferenciales.md",
+    "1713782172-ejercicio-1-tema-6-ecuaciones-diferenciales.md",
+    "1713780622-ejercicio-17-tema-5-ecuaciones-diferenciales.md",
+    "1713779854-ejercicio-16-tema-5-ecuaciones-diferenciales.md",
+    "1713778474-ejercicio-15-tema-5-ecuaciones-diferenciales.md",
+    "1713777304-ejercicio-14-tema-5-ecuaciones-diferenciales.md",
+    "1716977100-ejercicio-20-tema-4-ecuaciones-diferenciales.md",
+    "1716928158-ejercicio-17-tema-4-ecuaciones-diferenciales.md",
+    "1716974550-ejercicio-19-tema-4-ecuaciones-diferenciales.md",
+    "1716932521-ejercicio-18-tema-4-ecuaciones-diferenciales.md",
+    "1708975670-matriz-involutiva.md",
+    "1708975670-matriz-involutiva.pdf",
+    "1716932521-ejercicio-18-tema-4-ecuaciones-diferenciales.md~",
+    "Excalidraw/1716491727-dibujo-conjunto-de-cantor.md",
     "1715075555-mtodo-de-la-secante.md",
     "1716653895-diferencia-dividida.md",
     "1715073673-mtodo-de-la-biseccin.md",
@@ -408,29 +423,14 @@
     "1716663342-polinomio-interpolador-de-taylor.md",
     "1713169805-notaciones-de-landau.md",
     "1709029256-caracterizacin-analtica-del-polinomio-de-taylor.md",
-    "1715082816-teorema-del-valor-medio-de-lagrange.md",
     "1716460829-laboratorio-9-clculo-numrico.md~",
-    "1715077058-iteracin-de-punto-fijo.md",
-    "1716491727-conjunto-abierto.md",
     "1715075555-mtodo-de-la-secante.md~",
     "1715073673-mtodo-de-la-biseccin.md~",
-    "1716491727-conjunto-cerrado.md",
-    "1716715022-teorema-de-bolzano.md",
-    "1716491727-funcin-continua.md",
-    "1713875089-mtodo-de-coeficientes-indeterminados-reglas-cuadratura.md",
     "1716663320-mtodo-del-desarrollo-de-taylor.md~",
-    "1715155585-laboratorio-8-clculo-numrico.md",
-    "1713865555-reglas-de-cuadratura.md",
-    "1713873299-mtodo-interpolatorio.md",
     "1713865555-reglas-de-cuadratura.md~",
     "1716663342-polinomio-interpolador-de-taylor.md~",
-    "1716663320-mtodo-del-desarrollo-de-taylor.md",
-    "1713105333-laboratorios-clculo-numrico.md",
-    "1713866424-grado-de-exactitud.md",
     "1716660069-grado-de-exactitud-para-la-regla-del-trapecio.md~",
     "1716460391-laboratorio-7-clculo-numrico.md~",
-    "1709641715-polinomio-interpolador-de-lagrange.md~",
-    "1716653781-forma-de-newton.md~",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
     "Pasted image 20231015170547.png",

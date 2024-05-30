@@ -2,7 +2,8 @@
 id: 1708975670-matriz-involutiva
 aliases:
   - Matriz involutiva
-tags: []
+tags:
+  - álgebra
 ---
 
 # Matriz involutiva

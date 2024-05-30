@@ -17,17 +17,17 @@ $$
 
 $$
 \begin{split}
-    & \begin{array}
+    & \begin{cases}
         & x - 2xy = 0\\
         & -4y + 2xy = 0
-    \end{array} \implies
+    \end{cases} \implies
 
-    \begin{array}
+    \begin{cases}
         & x = 0\\
         & x = 2
         & y = 0\\
         & y = \frac{1}{2}
-    \end{array} 
+    \end{cases} 
 \end{split}
 $$
 
@@ -38,10 +38,10 @@ Estudiemos la estabilidad de $(0,0)$:
 $$
 \begin{split}
 
-    & \begin{array}
+    & \begin{cases}
         & g_{1}(x,y) = x - 2xy\\
         & g_{2}(x,y) = -4y + 2xy
-    \end{array} \implies
+    \end{cases} \implies
 
     J_g(x,y) = \begin{pmatrix} 
         \frac{\partial g_{1}}{\partial x} & \frac{\partial g_{1}}{\partial y}\\
@@ -70,7 +70,7 @@ J_g(2,\frac{1}{2}) = \begin{pmatrix}
 \end{pmatrix} \implies \ldots \implies \lambda = \pm 2i
 $$
 
-Por lo tanto, $(2,\frac{1}{2})$ es de tipo centro inestable. Sus autovectores son: $B_{S_{\lambda = 2i}} = \{(1,2)\}$ y $B_{S_{\lambda = -2i}} = \{(1,-2)\}$.
+Por lo tanto, $(2,\frac{1}{2})$ es de tipo centro inestable. Sus autovectores son: $B_{S_{\lambda = 2i}} = \{(1,2i)\}$ y $B_{S_{\lambda = -2i}} = \{(1,-2i)\}$.
 
 Ahora intentaremos sacar las trayectorias que pasan por $(2, \frac{1}{2})$:
 

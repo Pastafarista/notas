@@ -14,34 +14,27 @@ $$
         & x' = x - xy\\
         & y' = x - y
     \end{cases}\\
-
-    & \begin{array}
+    & \begin{cases}
         & x - xy = 0\\
         & x -y = 0
-    \end{array} \rightarrow 
-
-    \begin{array}
+    \end{cases} \rightarrow 
+    \begin{cases}
         & x(1 - y) = 0\\
         & x = y
-    \end{array} \rightarrow 
-
-    \begin{array}
+    \end{cases} \rightarrow 
+    \begin{cases}
         & (0, 0)\\
         & (1, 1)
-    \end{array}\\
-
-    & \begin{array}
+    \end{cases}\\
+    & \begin{cases}
         & g_{1}(x,y) = x - xy\\
         & g_{2}(x,y) = x - y
-    \end{array} \rightarrow
-
+    \end{cases} \rightarrow
     J_g(x,y) =
-
     \begin{pmatrix}
         \frac{\partial g_{1}}{\partial x} & \frac{\partial g_{1}}{\partial y}\\
         \frac{\partial g_{2}}{\partial x} & \frac{\partial g_{2}}{\partial y}
     \end{pmatrix} =\\
-
     & \begin{pmatrix}
         (1 - y) & -x\\
         1 & -1

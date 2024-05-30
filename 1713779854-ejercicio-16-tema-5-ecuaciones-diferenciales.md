@@ -17,16 +17,16 @@ $$
 
 $$
 \begin{split}
-    & \begin{array}
+    & \begin{cases}
         & y^2 - 3y + 2 = 0\\
         & (1-x)(y-2) = 0
-    \end{array} \implies
+    \end{cases} \implies
 
-    \begin{array}
+    \begin{cases}
         & x = 1\\
         & y = 1
         & y = 2
-    \end{array} \implies
+    \end{cases} \implies
 \end{split}
 $$
 
@@ -34,22 +34,18 @@ Tenemos $(1,1)$ y la recta $y=2$, estudiemos la estabilidad de $(1,1)$:
 
 $$
 \begin{split}
-
-    & \begin{array}
-        g_{1}(x,y) & = y^2 - 3y + 2\\
+    & \begin{cases}
+        g_1(x,y) & = y^2 - 3y + 2\\
         g_{2}(x,y) & = (1-x)(y-2)
-    \end{array} \implies
-
-    J_g(x,y) = \begin{pmatrix} 
+    \end{cases} \implies
+	J_g(x,y) = \begin{pmatrix} 
         \frac{\partial g_{1}}{\partial x} & \frac{\partial g_{1}}{\partial y}\\
         \frac{\partial g_{2}}{\partial x} & \frac{\partial g_{2}}{\partial y}
     \end{pmatrix} =\\
-
     & \begin{pmatrix}
         0 & 2y - 3\\
         2-y & 1-x
     \end{pmatrix}\\
-
     & J_g(1,1) = \begin{pmatrix}
         0 & -1\\
         1 & 0

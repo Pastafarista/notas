@@ -17,24 +17,24 @@ $$
 
 $$
 \begin{split}
-    & \begin{array}
+    & \begin{cases}
         & 1 - xy = 0\\
         & x - y^3 = 0
-    \end{array} \implies
+    \end{cases} \implies
 
-    \begin{array}
+    \begin{cases}
         & x = \pm 1
         & y = \pm 1
-    \end{array} \implies
+    \end{cases} \implies
 \end{split}
 $$
 
 $$
 \begin{split}
-    & \begin{array}
+    & \begin{cases}
         & g_{1}(x,y) = 1 - xy\\
         & g_{2}(x,y) = x - y^3
-    \end{array} \implies
+    \end{cases} \implies
     J_g(x,y) = \begin{pmatrix} 
         \frac{\partial g_{1}}{\partial x} & \frac{\partial g_{1}}{\partial y}\\
         \frac{\partial g_{2}}{\partial x} & \frac{\partial g_{2}}{\partial y}
@@ -46,8 +46,7 @@ $$
     & J_g(1,1) = \begin{pmatrix}
         -1 & -1\\
         1 & -3
-    \end{pmatrix}
-
+    \end{pmatrix}\\
     & J_g(-1,-1) = \begin{pmatrix}
         1 & 1\\
         1 & -3
@@ -81,7 +80,7 @@ $$
 \begin{split}
     & \begin{cases}
         & x' = x + y\\
-        & y' = x - 3y^2
+        & y' = x - 3y
     \end{cases}\\
     & A = \begin{pmatrix}
         1 & 1\\
