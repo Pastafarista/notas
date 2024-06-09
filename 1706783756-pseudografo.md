@@ -10,5 +10,3 @@ tags:
 # Pseudografo
 
 Un pseudografo es un [[1706782930-grafo|grafo]] en el que pueden existir [[1706977267-lazo-grafo|lazos]]
-
-

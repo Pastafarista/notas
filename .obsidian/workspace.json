@@ -247,7 +247,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1714382822-ejercicio-15-tema-6-ecuaciones-diferenciales.md",
+                "file": "1716393883-identidad-de-bezout.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -330,7 +330,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1714382822-ejercicio-15-tema-6-ecuaciones-diferenciales.md",
+                "file": "1716393883-identidad-de-bezout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -347,7 +347,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1714382822-ejercicio-15-tema-6-ecuaciones-diferenciales.md",
+                "file": "1716393883-identidad-de-bezout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -370,7 +370,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1714382822-ejercicio-15-tema-6-ecuaciones-diferenciales.md"
+                "file": "1716393883-identidad-de-bezout.md"
               }
             }
           }
@@ -384,17 +384,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "dcdf6f24b29c817e",
   "lastOpenFiles": [
+    "1707310892-tareas-cron.md",
+    "1716491728-sbin.md",
+    "1716491727-notacin-octal.md",
+    "1716491727-permisos-sgid.md",
+    "1716491727-permisos-suid.md",
+    "1716491728-etc.md",
+    "1716491727-flags.md",
+    "1714382822-ejercicio-15-tema-6-ecuaciones-diferenciales.md",
     "1717059100-ejercicio-10-tema-6-ecuaciones-diferenciales.md",
     "1713782408-ejercicio-2-tema-6-ecuaciones-diferenciales.md",
     "1713782172-ejercicio-1-tema-6-ecuaciones-diferenciales.md",
@@ -415,14 +423,6 @@
     "1715073673-mtodo-de-la-biseccin.md",
     "1715081050-atraccin-local-en-la-iteracin-de-punto-fijo.md",
     "1716564616-teora-examen-final-clculo-numrico.md",
-    "1716744725-teorema-de-rolle.md",
-    "1716460829-laboratorio-9-clculo-numrico.md",
-    "1715679859-teorema-de-puntos-fijos-repulsores.md",
-    "1715678314-teorema-de-convergencia-cuadrtica.md",
-    "1713131451-teora-parcial-clculo-numrico.md",
-    "1716663342-polinomio-interpolador-de-taylor.md",
-    "1713169805-notaciones-de-landau.md",
-    "1709029256-caracterizacin-analtica-del-polinomio-de-taylor.md",
     "1716460829-laboratorio-9-clculo-numrico.md~",
     "1715075555-mtodo-de-la-secante.md~",
     "1715073673-mtodo-de-la-biseccin.md~",
